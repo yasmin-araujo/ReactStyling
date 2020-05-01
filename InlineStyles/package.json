@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaketrent/react-drift.git"
+    "url": "git+https://github.com/yasmin-araujo/ReactStyling"
   },
   "keywords": [
     "react",
@@ -16,12 +16,8 @@
     "slider",
     "css"
   ],
-  "author": "jaketrent",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jaketrent/react-drift/issues"
-  },
-  "homepage": "https://github.com/jaketrent/react-drift#readme",
+  "author": "yasmin-araujo",
+  "homepage": "https://github.com/yasmin-araujo/ReactStyling",
   "devDependencies": {
     "@babel/core": "7.2.2",
     "@babel/preset-env": "7.2.3",
